@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @firefox2022
-- 👀 I’m interested in Python and Java
-- 🌱 I’m currently learning Python and Java :)
+- 👀 I’m interested in c#
+- 🌱 Ccurrently learning c# :)
 - 💞️ I’m looking to collaborate on any small project written in those two langauges
 - 📫 How to reach me: asetraut@gmail.com
 
