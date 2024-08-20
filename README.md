@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @firefox2022
 - 👀 I’m interested in c#
-- 🌱 Ccurrently learning c# :)
+- 🌱 Currently doing debugging in c# :)
 - 💞️ I’m looking to collaborate on any small project written in those two langauges
 - 📫 How to reach me: asetraut@gmail.com
 
